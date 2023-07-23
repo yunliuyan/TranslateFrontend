@@ -16,7 +16,7 @@ VueUse 拥有大量出色的可组合项。
 
 # 1、onClickOutside
 
-![img](https://miro.medium.com/v2/resize:fit:789/0*8vk4szIbaATlCwk6)
+![img](./img/0_8vk4szIbaATlCwk6.bin)
 
 检测点击非常简单。但是检测何时在元素*外部*发生点击呢？这有点棘手。当然，除非您使用`onClickOutside`VueUse 中的可组合项。
 
@@ -68,7 +68,7 @@ onClickOutside(
 
 # 2.useFocusTrap
 
-![img](https://miro.medium.com/v2/resize:fit:792/0*g72jYGnMgtPUHJRf)
+![img](./img/0_g72jYGnMgtPUHJRf.bin)
 
 为了获得可访问的应用程序，正确管理焦点非常重要。
 
@@ -130,7 +130,7 @@ useFocusTrap(container, { immediate: true });
 
 # 3.useHead
 
-![img](https://miro.medium.com/v2/resize:fit:741/0*w8YCQ7B7aSQR82xC)
+![img](./img/0_w8YCQ7B7aSQR82xC.bin)
 
 VueUse 为我们提供了一种简单的方法来更新应用程序的头部部分 - 页面标题、脚本和其他可能包含在其中的内容。
 
@@ -318,7 +318,7 @@ const count = ref(50)
 
 # 6.useImage
 
-![img](https://miro.medium.com/v2/resize:fit:630/0*LPF_Y1zPF5Lw8YG6)
+![img](./img/0_LPF_Y1zPF5Lw8YG6.bin)
 
 随着时间的推移，网络应用程序中的图像变得越来越精美。我们拥有带有`srcset`的响应式图像、渐进式加载库以及仅在图像滚动到视口中时才加载图像的库。
 
@@ -399,7 +399,7 @@ const { isLoading, error } = useImage({ src: url })
 
 # 7. 深色模式`useDark`
 
-![img](https://miro.medium.com/v2/resize:fit:744/0*fb9cyOk_uF7_W3o_)
+![img](./img/0_fb9cyOk_uF7_W3o_.bin)
 
 如今，每个网站和应用程序似乎都有深色模式。
 
